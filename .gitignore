@@ -1,0 +1,60 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables / API keys
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Uploaded/generated files
+uploads/
+output/
+temp/
+tmp/
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Python
+*.log
+
+# Temporary files
+temp/
+tmp/
+uploads/
